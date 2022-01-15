@@ -1,0 +1,7 @@
+PATCH  http://127.0.0.1:3000/comments/8 
+Content-Type : application/json
+
+{
+    "author": "Tima111",
+    "body": "Tima111111111"
+}
